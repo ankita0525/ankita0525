@@ -19,33 +19,16 @@
 ---
 
 ### 👤 Who I Am
+## 👩‍💻 Who Am I
 
-```typescript
-const ankita = {
-  title: "Computer Engineering Undergraduate & AI / Full-Stack Intern",
-  stack: {
-    languages: ["Java", "Python", "JavaScript", "SQL"],
-    librariesAndFrameworks: ["Flask", "Playwright", "Pandas", "Bootstrap"],
-    databases: ["MySQL", "SQLite", "Firebase"],
-    developerTools: ["Git", "GitHub", "Android Studio"]
-  },
-  launchedProjects: {
-    aiAutomationAgent: "AI-Autonomous-Web-Agent-for-End-to-End-Browser-Automation",
-    cancerDiagnosisPlatform: "OncoSight-Breast-Cancer-Diagnostic-Platform",
-    carbonCalculator: "Carbon-Footprint-Calculator"
-  },
-  certifications: [
-    "Object-Oriented Programming (HackerRank)",
-    "Database Management Systems (Infosys Springboard)",
-    "Artificial Intelligence (IBM SkillsBuild)",
-    "Operating Systems (Cisco Networking Academy)"
-  ],
-  status: "Currently doing BE in Computer Engineering @ DYPCOEI, Pune",
-  openTo: ["Full Stack Developer Roles", "AI & Automation Internships", "Collaborations"]
-};
-```
-
----
+- 🎓 Final Year Computer Engineering Student
+- 💻 AI & Full Stack Developer
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- ⚛️ Building modern web applications using React, Node.js and Java
+- 📊 Interested in Data Analytics and Automation
+- 🚀 Always learning new technologies and solving real-world problems
+- 🌱 Currently working on AI-powered applications and enterprise software
+- 🎯 Looking for Software Development and AI internship opportunities
 
 ### 💻 Featured Projects
 
